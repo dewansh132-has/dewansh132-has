@@ -8,7 +8,7 @@ coming soon...
 
 ### Vibe-Coded Projects:
 1. **[CraftChain](https://github.com/dewansh132-has/craftchain)**  
-   A Minecraft-themed web application that helps users plan, track, and collaborate on complex crafting goals.
+   A Minecraft-themed web application that helps users plan, track, and collaborate on complex crafting goals. (Team Project)
 
 ## Connect with me
 
