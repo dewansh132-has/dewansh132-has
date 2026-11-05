@@ -1,5 +1,5 @@
 # Hello, I'm Dewansh...
-B.Tech AI/DS student at NITW. Interested in Machine Learning, Competitive Programming, and Web Development.
+B.Tech AI/DS student at NITW'29. Interested in AI/ML and CP.
 
 ## Projects
 
