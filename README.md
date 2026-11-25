@@ -15,8 +15,8 @@ coming soon...
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sumitsah03690-bit/sumitsah03690-bit/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitsah03690-bit/sumitsah03690-bit/output/github-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sumitsah03690-bit/sumitsah03690-bit/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/dewansh132-has/dewansh132-has/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dewansh132-has/dewansh132-has/output/github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dewansh132-has/dewansh132-has/output/github-snake-dark.svg"/>
   </picture>
 </div>
