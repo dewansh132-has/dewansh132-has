@@ -11,3 +11,10 @@ coming soon...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25" height="25"/>
 </a>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sumitsah03690-bit/sumitsah03690-bit/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitsah03690-bit/sumitsah03690-bit/output/github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sumitsah03690-bit/sumitsah03690-bit/output/github-snake-dark.svg"/>
+  </picture>
+</div>
